@@ -189,7 +189,7 @@ class SettingPage extends ConsumerWidget {
                           child: CreateNameView()
                       ),
                       Container(
-                        SelectIconView()
+                          child: SelectIconView()
                       ),
                     ],
                   ),
